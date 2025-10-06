@@ -9,7 +9,7 @@ export default function WorksPage() {
       <div className="text-center mb-4 md:mb-6">
         <h1 className="text-3xl md:text-4xl font-bold text-gray-800">Works</h1>
         <p className="mt-2 text-gray-600 max-w-2xl mx-auto">
-          A selection of Hayao Miyazaki&apos;s films across the decades.
+          A selection of Hayao Miyazaki&apos;s films across the multiple decades.
         </p>
       </div>
 
