@@ -9,7 +9,7 @@ export default function WorksPage() {
       <div className="text-center mb-4 md:mb-6">
         <h1 className="text-3xl md:text-4xl font-bold text-gray-800">Works</h1>
         <p className="mt-2 text-gray-600 max-w-2xl mx-auto">
-          A selection of Hayao Miyazaki's films across the decades.
+          A selection of Hayao Miyazaki&apos;s films across the decades.
         </p>
       </div>
 
@@ -19,7 +19,7 @@ export default function WorksPage() {
       {/* description between carousel and cards */}
       <div className="text-center mt-8 mb-8">
         <p className="text-gray-600 max-w-2xl mx-auto">
-          Explore the artistry, imagination, and legacy of Miyazaki's most
+          Explore the artistry, imagination, and legacy of Miyazaki&apos;s most
           celebrated works below.
         </p>
       </div>
