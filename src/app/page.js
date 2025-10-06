@@ -32,7 +32,7 @@ export default function Home() {
           <div className="text-center mt-6 mb-8">
             <h1 className="text-3xl md:text-4xl font-bold text-gray-800">Works</h1>
             <p className="mt-2 text-gray-600 max-w-2xl mx-auto">
-              A selection of Hayao Miyazaki's films across the decades.
+              A selection of Hayao Miyazaki films across the decades.
             </p>
           </div>
           <WorksCarouselLoop autoPlay interval={1500} />
